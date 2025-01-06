@@ -61,5 +61,5 @@ This guide will help you set up a dynamic profile card display on your Google Si
 - Cross-device compatibility
 
 ## Notes
-- Profile photos should be hosted online at Imgur (one you host the photo, you must copy the image's address, not the link to the post)
+- Profile photos should be hosted online at Imgur (when you host the photo, you must copy the image's address, not the link to the post)
 - LinkedIn URLs must start with "https://" to display properly
